@@ -18,3 +18,11 @@
 * https://github.com/dicomtools/BatchTriDFusion/wiki/Source-code-version-of-BatchTriDFusion
 
 Visit https://daniellafontaine.com/ for more information
+
+
+## Application Requirement
+* TriDFusion is required.
+Download it from:
+	https://github.com/dicomtools/TriDFusion
+	
+
