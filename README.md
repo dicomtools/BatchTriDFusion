@@ -26,3 +26,11 @@ Download it from:
 	https://github.com/dicomtools/TriDFusion
 	
 
+## Command Example
+"C:\Program Files\BatchTriDFusion\2025a\BatchTriDFusion.exe" ^
+  -p "C:\Program Files\TriDFusion\2025a" ^
+  -w setFDGBrownFatFullAIExportToExcelCallback ^
+  -e 2 ^
+  -c "C:\Program Files\BatchTriDFusion\2025a\BATCH-conditions.xml" ^
+  -l "C:\Users\Public\batch_progress_log.txt" ^
+  "dicom_folder1" "dicom_folder2" ... "dicom_folderN"
