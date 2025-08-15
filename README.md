@@ -1,0 +1,20 @@
+<div align="center">
+  <h1>BatchTriDFusion</h1>
+  <p><strong>The BatchTriDFusion</strong> is a tool that launches a batch of imaging studies and executes the TriDFusion workflow in parallel, processing them in defined batches. The tool is provided by <a href="https://daniellafontaine.com/">Daniel Lafontaine</a>.</p>
+</div>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/dicomtools/BatchTriDFusion)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/dicomtools/BatchTriDFusion/blob/main/LICENSE)
+
+![BatchTriDFusion](images/BatchTriDFusionMain.png)
+
+## MATLAB tested version
+
+* MATLAB 2024a
+* MATLAB 2025a
+
+## Installation
+
+* https://github.com/dicomtools/BatchTriDFusion/wiki/Source-code-version-of-BatchTriDFusion
+
+Visit https://daniellafontaine.com/ for more information

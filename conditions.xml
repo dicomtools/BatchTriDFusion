@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conditions>
+    <PET>
+        <Modality>PT</Modality>
+        <ScanType>PET AC</ScanType>
+        <Orientation>Axial</Orientation>
+        <Is3D>True</Is3D>
+		
+    </PET>
+    <CT>
+        <Modality>CT</Modality>
+        <ScanType>CT AC</ScanType>
+        <Orientation>Axial</Orientation>
+        <Is3D>True</Is3D>
+  </CT>
+</conditions>
