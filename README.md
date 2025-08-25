@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/dicomtools/BatchTriDFusion)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/dicomtools/BatchTriDFusion/blob/main/LICENSE)
 
-![BatchTriDFusion](images/BatchTriDFusionMain.png)
+![BatchTriDFusion](images/TriDFusion_Batch_Processing.png)
 
 ## MATLAB tested version
 
